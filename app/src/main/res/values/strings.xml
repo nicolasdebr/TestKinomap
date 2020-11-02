@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestKinomap</string>
+    <string name="httphost"></string>
+</resources>
